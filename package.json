@@ -1,0 +1,17 @@
+{
+  "name": "firo-light",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "buffer-reverse": "^1.0.1",
+    "electrum-client": "git+https://github.com/BlueWallet/rn-electrum-client.git"
+  },
+  "type": "module"
+}
